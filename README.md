@@ -10,7 +10,7 @@ https://chrome.google.com/webstore/detail/diablo-iii-server-status/mpiocogpenlop
 
 ## Where did you get the info?
 
-We make an simple scrapping of the pages that Blizzard provide to see the info of the server status, e.g http://us.battle.net/d3/en/diablo-iii-server-status
+We make an simple scrapping of the pages that Blizzard provide to see the info of the server status, e.g http://us.battle.net/d3/en/status
 
 ## To Do:
 
