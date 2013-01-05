@@ -1,0 +1,81 @@
+body {
+	color: #7B6D55;
+	height: 100%;
+	font-size: 14px;
+}
+.container {
+	background-image: url("../img/bg.png");
+	height: auto;
+	width: 250px;
+	background-repeat: no-repeat;
+}
+.content {
+	padding-top: 150px;
+	margin-bottom: 10px;
+}
+.footer {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.styled-select select {
+   width: 220px;
+   height: 34px;
+   background: #12110F;
+   border: 1px solid #28241D;
+   border-width: 1px;
+   color: #7B6D55;
+   padding: 7px 12px;
+}
+
+.styled-select option {
+   background: #12110F;
+   border: 1px solid #28241D;
+   border-width: 1px;
+   color: #7B6D55;
+   padding: 7px 12px;
+}
+
+.server {
+	background: #12110F;
+	border: 1px solid #28241D;
+	border-width: 0px 0 1px;
+	color: #7B6D55;
+	padding: 1px 12px;
+	width: 200px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+.server-name {
+	height: 26px;
+	line-height: 26px;
+	text-align: left;
+}
+
+.subcategory {margin-top: 5px; margin-bottom:10px;padding-left: 70px; }
+
+.alt {
+	background: #171614;
+}
+
+.status-icon.up {
+	background-position: -24px 0;
+}
+
+.status-icon {
+	float: right;
+	background: url("../img/status.gif") no-repeat scroll 0 0 transparent;
+	height: 28px;
+	margin: 0 auto;
+	width: 27px;
+}
+
+.textFacebook {
+	font-size:11px
+}
+
+.imgFooter {
+	height: 30px;
+}
+
