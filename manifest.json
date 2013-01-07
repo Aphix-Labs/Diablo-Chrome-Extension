@@ -1,6 +1,6 @@
 {
   "name": "Diablo III Server Status",
-  "version": "0.8.7",
+  "version": "0.9",
   "manifest_version": 2,
   "description": "Show and notify the status of the server of Diablo III",
   "homepage_url": "https://github.com/Aphix-Labs/Diablo-Chrome-Extension",
