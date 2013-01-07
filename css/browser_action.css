@@ -3,6 +3,9 @@ body {
 	height: 100%;
 	font-size: 14px;
 }
+a {
+    text-decoration: none;
+}
 .container {
 	background-image: url("../img/bg.png");
 	height: auto;
@@ -78,4 +81,6 @@ body {
 .imgFooter {
 	height: 30px;
 }
+
+
 
